@@ -1,1 +1,1 @@
-# Akshay Saini promise, asysnc await , API integration with examples in JS.
+# Akshay Saini promise, async await , API integration with examples in JS.
